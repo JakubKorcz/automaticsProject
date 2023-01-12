@@ -1,0 +1,122 @@
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    align: center;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #3f7d91 #cfe0e8;
+}
+
+h1{
+    text-align: center;
+    background-color: green;
+    color: white;
+    width: 100%;
+    margin: auto;
+    padding: 40px;
+
+}
+
+#subtitle{
+    font-size: 26px;
+}
+
+#block{
+    width: 100%;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.slid{
+    text-align: center;
+    width: 20%;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: black 2px;	
+}
+
+.sliders{
+	align:center;
+    margin: auto;
+    background-color: #90EE90;
+    padding: 20px 20px 20px 20px;
+    border-radius: 4px;
+    width: 35%;
+
+}
+
+.temperature{
+    padding: 10px 0px 15px 0px;
+    width: 50%;
+    margin: auto;
+    border-radius: 4px;
+    font-size: 18px;
+}
+
+.parameters{
+    font-size: 14px;
+}
+
+.data{  
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+}
+
+#loading{
+    clear: both;
+}
+
+
+#loading_icon{
+    float: left;
+}
+
+
+.regulation_block{
+    font-size: 16px;
+    text-align: center;  
+    width: 35%;
+	border-radius: 4px;
+	background-color:#90EE90;
+	margin:auto;
+	margin-top:5px;
+}
+
+.regulation{
+	text-align:center;
+}
+
+.graph_display{
+    width:85%;
+	align:center;
+}
+
+#the_graph{
+    width:100%;
+    height: 800px;
+    margin-bottom: 60px;
+}
+
+
+#alert-auto{
+    margin-top: 30px;
+}
+
+
+#submit-button-state{
+    background-color: green;
+    margin: auto;
+    margin-top: 10px;
+}
+
+
+#footer{
+    clear: both;
+    font-size: 15px;
+    background-color: #b7d7e8;
+    margin-bottom: 0px;
+}

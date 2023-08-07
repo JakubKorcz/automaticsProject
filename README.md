@@ -1,2 +1,2 @@
 # automaticsProject
-This project uses python and css to follow 
+This project uses python and css to follow boiler work.
